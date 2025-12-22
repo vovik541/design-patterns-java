@@ -35,3 +35,10 @@ Refresh and reinforce knowledge of classic design patterns through clean, minima
 
 ## Reference
 https://refactoring.guru/design-patterns
+
+## Project Structure
+```text
+src/
+  creational/
+  structural/
+  behavioral/`
